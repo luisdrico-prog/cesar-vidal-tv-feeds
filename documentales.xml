@@ -5,12 +5,20 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 05 Sep 2026 00:55:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 06:53:21 +0000</lastBuildDate>
+<item>
+<title><![CDATA["Desmontando el Relato": El Documental]]></title>
+<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
+<pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Un documental de Miguel Rix.]]></description>
+</item>
 <item>
 <title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
 <link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<pubDate>Fri, 06 Oct 2023 12:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
 </item>
@@ -77,14 +85,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[27 Minutos]]></description>
-</item>
-<item>
-<title><![CDATA["Desmontando el Relato": El Documental]]></title>
-<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Un documental de Miguel Rix.]]></description>
 </item>
 </channel>
 </rss>
