@@ -5,7 +5,15 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 09 Sep 2026 00:57:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 06:57:46 +0000</lastBuildDate>
+<item>
+<title><![CDATA[Especial MK Ultra: control mental, granja humana y asesinos teledirigidos]]></title>
+<link>https://cesarvidal.tv/programs/especial-mk-ultra</link>
+<guid isPermaLink="false">Recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-mk-ultra</guid>
+<pubDate>Sat, 11 Jul 2026 12:00:00 +0000</pubDate>
+<category><![CDATA[Recopilatorios y programas especiales]]></category>
+<description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
+</item>
 <item>
 <title><![CDATA[La geopolítica del Irán de los ayatollahs]]></title>
 <link>https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</link>
@@ -69,14 +77,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Recopilatorios y programas especiales]]></category>
 <description><![CDATA[La conspiración de la I Guerra Mundial]]></description>
-</item>
-<item>
-<title><![CDATA[Especial MK Ultra: control mental, granja humana y asesinos teledirigidos]]></title>
-<link>https://cesarvidal.tv/programs/especial-mk-ultra</link>
-<guid isPermaLink="false">Recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-mk-ultra</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Recopilatorios y programas especiales]]></category>
-<description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
 </item>
 </channel>
 </rss>

@@ -5,9 +5,17 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 09 Sep 2026 00:57:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 06:57:46 +0000</lastBuildDate>
 <item>
-<title><![CDATA[27 minutos]]></title>
+<title><![CDATA[Tantura]]></title>
+<link>https://cesarvidal.tv/programs/tantura</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
+<pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
+</item>
+<item>
+<title><![CDATA[27 Minutos]]></title>
 <link>https://cesarvidal.tv/programs/27-minutos-video</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
 <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
@@ -18,7 +26,7 @@
 <title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
 <link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<pubDate>Fri, 06 Oct 2023 12:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
 </item>
@@ -37,14 +45,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></description>
-</item>
-<item>
-<title><![CDATA[Tantura]]></title>
-<link>https://cesarvidal.tv/programs/tantura</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
 </item>
 <item>
 <title><![CDATA[Señores de las redes]]></title>
