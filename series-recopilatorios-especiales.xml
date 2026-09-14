@@ -5,12 +5,36 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 14 Sep 2026 06:59:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 12:59:24 +0000</lastBuildDate>
+<item>
+<title><![CDATA[Especial MK Ultra: control mental, granja humana y asesinos teledirigidos]]></title>
+<link>https://cesarvidal.tv/programs/especial-mk-ultra</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-mk-ultra</guid>
+<pubDate>Sat, 11 Jul 2026 12:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
+</item>
+<item>
+<title><![CDATA[La geopolítica del Irán de los ayatollahs]]></title>
+<link>https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</guid>
+<pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[La geopolítica del Irán de los ayatollahs, de peón de Occidente a amenaza existencial.]]></description>
+</item>
+<item>
+<title><![CDATA[Especial: 11-M]]></title>
+<link>https://cesarvidal.tv/programs/especial-11-m</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-11-m</guid>
+<pubDate>Sat, 16 Mar 2024 12:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[Especial: 11-M]]></description>
+</item>
 <item>
 <title><![CDATA[Un mundo que cambia]]></title>
 <link>https://cesarvidal.tv/programs/un-mundo-que-cambia</link>
 <guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/un-mundo-que-cambia</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<pubDate>Sun, 13 Jun 2021 12:00:00 +0000</pubDate>
 <category><![CDATA[Series, recopilatorios y programas especiales]]></category>
 <description><![CDATA[Un mundo que cambia]]></description>
 </item>
@@ -55,14 +79,6 @@
 <description><![CDATA[La guerra que tuvo muchos padres: El origen de la II Guerra Mundial]]></description>
 </item>
 <item>
-<title><![CDATA[La geopolítica del Irán de los ayatollahs]]></title>
-<link>https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[La geopolítica del Irán de los ayatollahs, de peón de Occidente a amenaza existencial.]]></description>
-</item>
-<item>
 <title><![CDATA[La conspiración de la I Guerra Mundial]]></title>
 <link>https://cesarvidal.tv/programs/especial-la-conspiracion-de-la-i-guerra-mundial</link>
 <guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-la-conspiracion-de-la-i-guerra-mundial</guid>
@@ -85,22 +101,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Series, recopilatorios y programas especiales]]></category>
 <description><![CDATA[Especial: Guerra en Tierra Santa]]></description>
-</item>
-<item>
-<title><![CDATA[Especial: 11-M]]></title>
-<link>https://cesarvidal.tv/programs/especial-11-m</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-11-m</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[Especial: 11-M]]></description>
-</item>
-<item>
-<title><![CDATA[Especial MK Ultra: control mental, granja humana y asesinos teledirigidos]]></title>
-<link>https://cesarvidal.tv/programs/especial-mk-ultra</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-mk-ultra</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
 </item>
 </channel>
 </rss>
