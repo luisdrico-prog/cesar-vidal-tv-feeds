@@ -5,7 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 16 Sep 2026 00:56:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 06:58:06 +0000</lastBuildDate>
 <item>
 <title><![CDATA[La Mafia Feminista: Europa activa el GRAN HERMANO: podrán leer TODOS tus mensajes privados - 30/08/26]]></title>
 <link>https://cesarvidal.tv/programs/la-mafia-feminista-europa-activa-el-gran-hermano-podran-leer-todos-tus-mensajes-privados-30-08-26</link>
@@ -389,6 +389,14 @@
 <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
 <category><![CDATA[Camino del Sur]]></category>
 <description><![CDATA[Por César Vidal.]]></description>
+</item>
+<item>
+<title><![CDATA["Desmontando el Relato": El Documental]]></title>
+<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
+<pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Un documental de Miguel Rix.]]></description>
 </item>
 <item>
 <title><![CDATA[Camino del Sur - 19/04/26]]></title>
@@ -1501,6 +1509,14 @@
 <pubDate>Sun, 21 Jan 2024 12:00:00 +0000</pubDate>
 <category><![CDATA[Camino del Sur]]></category>
 <description><![CDATA[Camino del Sur - 21/01/24]]></description>
+</item>
+<item>
+<title><![CDATA[27 minutos]]></title>
+<link>https://cesarvidal.tv/programs/27-minutos-video</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
+<pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
 <title><![CDATA[Camino del Sur: Especial Mississippi - 14/01/24]]></title>
@@ -2631,6 +2647,14 @@
 <description><![CDATA[Camino del Sur - 20/06/21]]></description>
 </item>
 <item>
+<title><![CDATA[Un mundo que cambia]]></title>
+<link>https://cesarvidal.tv/programs/un-mundo-que-cambia</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/un-mundo-que-cambia</guid>
+<pubDate>Sun, 13 Jun 2021 12:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[Un mundo que cambia]]></description>
+</item>
+<item>
 <title><![CDATA[Camino del Sur - 13/06/21]]></title>
 <link>https://cesarvidal.tv/programs/camino-del-sur-13-06-21</link>
 <guid isPermaLink="false">Camino del Sur:https://cesarvidal.tv/programs/camino-del-sur-13-06-21</guid>
@@ -2927,14 +2951,6 @@
 <description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
 </item>
 <item>
-<title><![CDATA[Un mundo que cambia]]></title>
-<link>https://cesarvidal.tv/programs/un-mundo-que-cambia</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/un-mundo-que-cambia</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[Un mundo que cambia]]></description>
-</item>
-<item>
 <title><![CDATA[Ucrania en llamas]]></title>
 <link>https://cesarvidal.tv/programs/ucrania-en-llamas</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/ucrania-en-llamas</guid>
@@ -3181,22 +3197,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
-</item>
-<item>
-<title><![CDATA[27 minutos]]></title>
-<link>https://cesarvidal.tv/programs/27-minutos-video</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[27 Minutos]]></description>
-</item>
-<item>
-<title><![CDATA["Desmontando el Relato": El Documental]]></title>
-<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Un documental de Miguel Rix.]]></description>
 </item>
 </channel>
 </rss>
