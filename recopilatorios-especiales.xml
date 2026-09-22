@@ -5,15 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 21 Sep 2026 18:56:06 +0000</lastBuildDate>
-<item>
-<title><![CDATA[Especial MK Ultra: control mental, granja humana y asesinos teledirigidos]]></title>
-<link>https://cesarvidal.tv/programs/especial-mk-ultra</link>
-<guid isPermaLink="false">Recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-mk-ultra</guid>
-<pubDate>Sat, 11 Jul 2026 12:00:00 +0000</pubDate>
-<category><![CDATA[Recopilatorios y programas especiales]]></category>
-<description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
-</item>
+<lastBuildDate>Tue, 22 Sep 2026 00:56:11 +0000</lastBuildDate>
 <item>
 <title><![CDATA[Objetivo Irán]]></title>
 <link>https://cesarvidal.tv/programs/objetivo-iran</link>
@@ -77,6 +69,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Recopilatorios y programas especiales]]></category>
 <description><![CDATA[Especial: 11-M]]></description>
+</item>
+<item>
+<title><![CDATA[Especial MK Ultra: control mental, granja humana y asesinos teledirigidos]]></title>
+<link>https://cesarvidal.tv/programs/especial-mk-ultra</link>
+<guid isPermaLink="false">Recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-mk-ultra</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Recopilatorios y programas especiales]]></category>
+<description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
 </item>
 </channel>
 </rss>
