@@ -5,7 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 26 Sep 2026 12:55:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 21:36:54 +0000</lastBuildDate>
 <item>
 <title><![CDATA[La Mafia Feminista: Europa activa el GRAN HERMANO: podrán leer TODOS tus mensajes privados - 30/08/26]]></title>
 <link>https://cesarvidal.tv/programs/la-mafia-feminista-europa-activa-el-gran-hermano-podran-leer-todos-tus-mensajes-privados-30-08-26</link>
@@ -399,6 +399,14 @@
 <description><![CDATA[Por César Vidal.]]></description>
 </item>
 <item>
+<title><![CDATA["Desmontando el Relato": El Documental]]></title>
+<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
+<pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Un documental de Miguel Rix.]]></description>
+</item>
+<item>
 <title><![CDATA[Camino del Sur - 19/04/26]]></title>
 <link>https://cesarvidal.tv/programs/camino-del-sur-190426-6a434d</link>
 <guid isPermaLink="false">Camino del Sur:https://cesarvidal.tv/programs/camino-del-sur-190426-6a434d</guid>
@@ -453,14 +461,6 @@
 <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
 <category><![CDATA[Camino del Sur]]></category>
 <description><![CDATA[Camino del Sur: Especial Gospel (I) - 29/03/26]]></description>
-</item>
-<item>
-<title><![CDATA[La geopolítica del Irán de los ayatollahs]]></title>
-<link>https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</guid>
-<pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[La geopolítica del Irán de los ayatollahs, de peón de Occidente a amenaza existencial.]]></description>
 </item>
 <item>
 <title><![CDATA[Mónica García impulsa la purga de médicos objetores - 22/03/26]]></title>
@@ -893,6 +893,14 @@
 <pubDate>Sun, 15 Jun 2025 12:00:00 +0000</pubDate>
 <category><![CDATA[Camino del Sur]]></category>
 <description><![CDATA[Camino del Sur - 15/06/25]]></description>
+</item>
+<item>
+<title><![CDATA[Objetivo Irán]]></title>
+<link>https://cesarvidal.tv/programs/objetivo-iran</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/objetivo-iran</guid>
+<pubDate>Fri, 13 Jun 2025 12:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[Objetivo Irán]]></description>
 </item>
 <item>
 <title><![CDATA[Camino del Sur - 08/06/25]]></title>
@@ -2687,6 +2695,14 @@
 <description><![CDATA[Camino del Sur - 20/06/21]]></description>
 </item>
 <item>
+<title><![CDATA[Un mundo que cambia]]></title>
+<link>https://cesarvidal.tv/programs/un-mundo-que-cambia</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/un-mundo-que-cambia</guid>
+<pubDate>Sun, 13 Jun 2021 12:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[Un mundo que cambia]]></description>
+</item>
+<item>
 <title><![CDATA[Camino del Sur - 13/06/21]]></title>
 <link>https://cesarvidal.tv/programs/camino-del-sur-13-06-21</link>
 <guid isPermaLink="false">Camino del Sur:https://cesarvidal.tv/programs/camino-del-sur-13-06-21</guid>
@@ -2975,14 +2991,6 @@
 <description><![CDATA[Camino del Sur - 11/10/20]]></description>
 </item>
 <item>
-<title><![CDATA[Un mundo que cambia]]></title>
-<link>https://cesarvidal.tv/programs/un-mundo-que-cambia</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/un-mundo-que-cambia</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[Un mundo que cambia]]></description>
-</item>
-<item>
 <title><![CDATA[Ucrania en llamas]]></title>
 <link>https://cesarvidal.tv/programs/ucrania-en-llamas</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/ucrania-en-llamas</guid>
@@ -3013,14 +3021,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Durante los últimos cinco años, Ucrania ha ocupado innumerables titulares en prensa y televisión. Pero, ¿qué ha cambiado realmente en la vida de los ucranianos?]]></description>
-</item>
-<item>
-<title><![CDATA[Objetivo Irán]]></title>
-<link>https://cesarvidal.tv/programs/objetivo-iran</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/objetivo-iran</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[Objetivo Irán]]></description>
 </item>
 <item>
 <title><![CDATA[Mónica Oltra contra las cuerdas: escándalos, juicios y su regreso político]]></title>
@@ -3069,6 +3069,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[El Gran Reseteo]]></category>
 <description><![CDATA[La industria transgenderista infantil destapada en los archivos Epstein]]></description>
+</item>
+<item>
+<title><![CDATA[La geopolítica del Irán de los ayatollahs]]></title>
+<link>https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/la-geopolitica-del-iran-de-los-ayatollahs</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[La geopolítica del Irán de los ayatollahs, de peón de Occidente a amenaza existencial.]]></description>
 </item>
 <item>
 <title><![CDATA[La conspiración de la I Guerra Mundial]]></title>
@@ -3189,14 +3197,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[27 Minutos]]></description>
-</item>
-<item>
-<title><![CDATA["Desmontando el Relato": El Documental]]></title>
-<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Un documental de Miguel Rix.]]></description>
 </item>
 </channel>
 </rss>
