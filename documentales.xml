@@ -5,23 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 02 Oct 2026 13:13:28 +0000</lastBuildDate>
-<item>
-<title><![CDATA[27 minutos]]></title>
-<link>https://cesarvidal.tv/programs/27-minutos-video</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
-<pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[27 Minutos]]></description>
-</item>
-<item>
-<title><![CDATA[Señores de las redes]]></title>
-<link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/senores-de-las-redes</guid>
-<pubDate>Wed, 02 Mar 2022 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Españoles y portugueses llevan siglos pescando en las duras aguas del Atlántico Norte, en los Grandes Bancos de Terranova, uno de los caladeros más extremos del mundo.]]></description>
-</item>
+<lastBuildDate>Fri, 02 Oct 2026 22:35:30 +0000</lastBuildDate>
 <item>
 <title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
 <link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
@@ -55,6 +39,14 @@
 <description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
 </item>
 <item>
+<title><![CDATA[Señores de las redes]]></title>
+<link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/senores-de-las-redes</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Españoles y portugueses llevan siglos pescando en las duras aguas del Atlántico Norte, en los Grandes Bancos de Terranova, uno de los caladeros más extremos del mundo.]]></description>
+</item>
+<item>
 <title><![CDATA[Revelando a Ucrania]]></title>
 <link>https://cesarvidal.tv/programs/revelando-a-ucrania</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/revelando-a-ucrania</guid>
@@ -77,6 +69,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
+</item>
+<item>
+<title><![CDATA[27 minutos]]></title>
+<link>https://cesarvidal.tv/programs/27-minutos-video</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
 <title><![CDATA["Desmontando el Relato": El Documental]]></title>
