@@ -5,7 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 04 Oct 2026 21:58:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 06:15:39 +0000</lastBuildDate>
 <item>
 <title><![CDATA[La Mafia Feminista: Europa activa el GRAN HERMANO: podrán leer TODOS tus mensajes privados - 30/08/26]]></title>
 <link>https://cesarvidal.tv/programs/la-mafia-feminista-europa-activa-el-gran-hermano-podran-leer-todos-tus-mensajes-privados-30-08-26</link>
@@ -927,14 +927,6 @@
 <description><![CDATA[Camino del Sur - 27/04/25]]></description>
 </item>
 <item>
-<title><![CDATA[Tantura]]></title>
-<link>https://cesarvidal.tv/programs/tantura</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
-<pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
-</item>
-<item>
 <title><![CDATA[Camino del Sur: Especial Semana Santa (II) - 20/04/25]]></title>
 <link>https://cesarvidal.tv/programs/camino-del-sur-especial-semana-santa-ii-20-04-25</link>
 <guid isPermaLink="false">Camino del Sur:https://cesarvidal.tv/programs/camino-del-sur-especial-semana-santa-ii-20-04-25</guid>
@@ -1509,14 +1501,6 @@
 <pubDate>Sun, 21 Jan 2024 12:00:00 +0000</pubDate>
 <category><![CDATA[Camino del Sur]]></category>
 <description><![CDATA[Camino del Sur - 21/01/24]]></description>
-</item>
-<item>
-<title><![CDATA[27 Minutos]]></title>
-<link>https://cesarvidal.tv/programs/27-minutos-video</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
-<pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
 <title><![CDATA[Camino del Sur: Especial Mississippi - 14/01/24]]></title>
@@ -2229,14 +2213,6 @@
 <pubDate>Sun, 19 Jun 2022 12:00:00 +0000</pubDate>
 <category><![CDATA[Camino del Sur]]></category>
 <description><![CDATA[Camino del Sur: Especial Johny Cash - 19/06/22]]></description>
-</item>
-<item>
-<title><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></title>
-<link>https://cesarvidal.tv/programs/toda-la-verdad-sobre-ucrania-y-rusia-en-67-minutos-buscar-encontrar-contar</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/toda-la-verdad-sobre-ucrania-y-rusia-en-67-minutos-buscar-encontrar-contar</guid>
-<pubDate>Tue, 14 Jun 2022 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></description>
 </item>
 <item>
 <title><![CDATA[Camino del Sur - 12/06/22]]></title>
@@ -2967,6 +2943,22 @@
 <description><![CDATA[En el mundo moderno de fronteras borrosas, cualquier acontecimiento que sucede en un lugar afecta inevitablemente al conjunto de la aldea global.]]></description>
 </item>
 <item>
+<title><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></title>
+<link>https://cesarvidal.tv/programs/toda-la-verdad-sobre-ucrania-y-rusia-en-67-minutos-buscar-encontrar-contar</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/toda-la-verdad-sobre-ucrania-y-rusia-en-67-minutos-buscar-encontrar-contar</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></description>
+</item>
+<item>
+<title><![CDATA[Tantura]]></title>
+<link>https://cesarvidal.tv/programs/tantura</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
+</item>
+<item>
 <title><![CDATA[Señores de las redes]]></title>
 <link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/senores-de-las-redes</guid>
@@ -3189,6 +3181,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
+</item>
+<item>
+<title><![CDATA[27 minutos]]></title>
+<link>https://cesarvidal.tv/programs/27-minutos-video</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
 <title><![CDATA["Desmontando el Relato": El Documental]]></title>
