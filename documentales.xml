@@ -5,15 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 09 Oct 2026 06:46:20 +0000</lastBuildDate>
-<item>
-<title><![CDATA["Desmontando el Relato": El Documental]]></title>
-<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
-<pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Un documental de Miguel Rix.]]></description>
-</item>
+<lastBuildDate>Fri, 09 Oct 2026 13:50:42 +0000</lastBuildDate>
 <item>
 <title><![CDATA[Tantura]]></title>
 <link>https://cesarvidal.tv/programs/tantura</link>
@@ -23,12 +15,20 @@
 <description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
 </item>
 <item>
-<title><![CDATA[27 minutos]]></title>
+<title><![CDATA[27 Minutos]]></title>
 <link>https://cesarvidal.tv/programs/27-minutos-video</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
 <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[27 Minutos]]></description>
+</item>
+<item>
+<title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
+<link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
+<pubDate>Fri, 06 Oct 2023 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
 </item>
 <item>
 <title><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></title>
@@ -45,14 +45,6 @@
 <pubDate>Wed, 02 Mar 2022 12:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Españoles y portugueses llevan siglos pescando en las duras aguas del Atlántico Norte, en los Grandes Bancos de Terranova, uno de los caladeros más extremos del mundo.]]></description>
-</item>
-<item>
-<title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
-<link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
 </item>
 <item>
 <title><![CDATA[Ucrania en llamas]]></title>
@@ -85,6 +77,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
+</item>
+<item>
+<title><![CDATA["Desmontando el Relato": El Documental]]></title>
+<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Un documental de Miguel Rix.]]></description>
 </item>
 </channel>
 </rss>
