@@ -5,7 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 10 Oct 2026 06:24:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 13:05:06 +0000</lastBuildDate>
 <item>
 <title><![CDATA[La Mafia Feminista: Europa activa el GRAN HERMANO: podrán leer TODOS tus mensajes privados - 30/08/26]]></title>
 <link>https://cesarvidal.tv/programs/la-mafia-feminista-europa-activa-el-gran-hermano-podran-leer-todos-tus-mensajes-privados-30-08-26</link>
@@ -927,14 +927,6 @@
 <description><![CDATA[Camino del Sur - 27/04/25]]></description>
 </item>
 <item>
-<title><![CDATA[Tantura]]></title>
-<link>https://cesarvidal.tv/programs/tantura</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
-<pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
-</item>
-<item>
 <title><![CDATA[Camino del Sur: Especial Semana Santa (II) - 20/04/25]]></title>
 <link>https://cesarvidal.tv/programs/camino-del-sur-especial-semana-santa-ii-20-04-25</link>
 <guid isPermaLink="false">Camino del Sur:https://cesarvidal.tv/programs/camino-del-sur-especial-semana-santa-ii-20-04-25</guid>
@@ -1509,6 +1501,14 @@
 <pubDate>Sun, 21 Jan 2024 12:00:00 +0000</pubDate>
 <category><![CDATA[Camino del Sur]]></category>
 <description><![CDATA[Camino del Sur - 21/01/24]]></description>
+</item>
+<item>
+<title><![CDATA[27 minutos]]></title>
+<link>https://cesarvidal.tv/programs/27-minutos-video</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
+<pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
 <title><![CDATA[Camino del Sur: Especial Mississippi - 14/01/24]]></title>
@@ -2343,6 +2343,14 @@
 <description><![CDATA[Camino del Sur - 06/03/22]]></description>
 </item>
 <item>
+<title><![CDATA[Señores de las redes]]></title>
+<link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/senores-de-las-redes</guid>
+<pubDate>Wed, 02 Mar 2022 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Españoles y portugueses llevan siglos pescando en las duras aguas del Atlántico Norte, en los Grandes Bancos de Terranova, uno de los caladeros más extremos del mundo.]]></description>
+</item>
+<item>
 <title><![CDATA[Camino del Sur - 27/02/22]]></title>
 <link>https://cesarvidal.tv/programs/camino-del-sur-27-02-22</link>
 <guid isPermaLink="false">Camino del Sur:https://cesarvidal.tv/programs/camino-del-sur-27-02-22</guid>
@@ -2959,12 +2967,12 @@
 <description><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></description>
 </item>
 <item>
-<title><![CDATA[Señores de las redes]]></title>
-<link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/senores-de-las-redes</guid>
+<title><![CDATA[Tantura]]></title>
+<link>https://cesarvidal.tv/programs/tantura</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
-<description><![CDATA[Españoles y portugueses llevan siglos pescando en las duras aguas del Atlántico Norte, en los Grandes Bancos de Terranova, uno de los caladeros más extremos del mundo.]]></description>
+<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
 </item>
 <item>
 <title><![CDATA[Revelando a Ucrania]]></title>
@@ -3181,14 +3189,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
-</item>
-<item>
-<title><![CDATA[27 minutos]]></title>
-<link>https://cesarvidal.tv/programs/27-minutos-video</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
 <title><![CDATA["Desmontando el Relato": El Documental]]></title>
