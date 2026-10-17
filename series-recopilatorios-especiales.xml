@@ -5,7 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 17 Oct 2026 11:12:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 15:58:03 +0000</lastBuildDate>
 <item>
 <title><![CDATA[Un mundo que cambia]]></title>
 <link>https://cesarvidal.tv/programs/un-mundo-que-cambia</link>
@@ -101,6 +101,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Series, recopilatorios y programas especiales]]></category>
 <description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
+</item>
+<item>
+<title><![CDATA[El Gran Reseteo: Los señores de la IA y el marketing del Apocalipsis]]></title>
+<link>https://cesarvidal.tv/programs/el-gran-reseteo-los-senores-de-la-ia-y-el-marketing-del-apocalipsis</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/el-gran-reseteo-los-senores-de-la-ia-y-el-marketing-del-apocalipsis</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[César Vidal y Lorenzo Ramírez destapan cómo las élites tecnológicas utilizan el miedo a la IA para controlar gobiernos y ciudadanos.]]></description>
 </item>
 </channel>
 </rss>
