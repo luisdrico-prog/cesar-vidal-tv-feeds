@@ -5,23 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 20 Oct 2026 05:21:12 +0000</lastBuildDate>
-<item>
-<title><![CDATA[Los señores de la IA y el marketing del Apocalipsis]]></title>
-<link>https://cesarvidal.tv/programs/el-gran-reseteo-los-senores-de-la-ia-y-el-marketing-del-apocalipsis</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/el-gran-reseteo-los-senores-de-la-ia-y-el-marketing-del-apocalipsis</guid>
-<pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[César Vidal y Lorenzo Ramírez destapan cómo las élites tecnológicas utilizan el miedo a la IA para controlar gobiernos y ciudadanos.]]></description>
-</item>
-<item>
-<title><![CDATA[La oscura verdad de la construcción europea]]></title>
-<link>https://cesarvidal.tv/programs/especial-la-oscura-verdad-de-la-construccion-europea</link>
-<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-la-oscura-verdad-de-la-construccion-europea</guid>
-<pubDate>Sat, 27 Jul 2024 12:00:00 +0000</pubDate>
-<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
-<description><![CDATA[La oscura verdad de la construcción europea]]></description>
-</item>
+<lastBuildDate>Tue, 20 Oct 2026 12:14:53 +0000</lastBuildDate>
 <item>
 <title><![CDATA[Un mundo que cambia]]></title>
 <link>https://cesarvidal.tv/programs/un-mundo-que-cambia</link>
@@ -53,6 +37,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Series, recopilatorios y programas especiales]]></category>
 <description><![CDATA[Serie especial de El Gran Reseteo: África, el gran tablero donde EE. UU. y China libran la batalla por la hegemonía mundial.]]></description>
+</item>
+<item>
+<title><![CDATA[La oscura verdad de la construcción europea]]></title>
+<link>https://cesarvidal.tv/programs/especial-la-oscura-verdad-de-la-construccion-europea</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/especial-la-oscura-verdad-de-la-construccion-europea</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[La oscura verdad de la construcción europea]]></description>
 </item>
 <item>
 <title><![CDATA[La guerra que tuvo muchos padres: El origen de la II Guerra Mundial]]></title>
@@ -109,6 +101,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Series, recopilatorios y programas especiales]]></category>
 <description><![CDATA[Especial de El Gran Reseteo sobre MK ULTRA: control mental, ingeniería social, experimentos secretos y asesinos teledirigidos.]]></description>
+</item>
+<item>
+<title><![CDATA[El Gran Reseteo: Los señores de la IA y el marketing del Apocalipsis]]></title>
+<link>https://cesarvidal.tv/programs/el-gran-reseteo-los-senores-de-la-ia-y-el-marketing-del-apocalipsis</link>
+<guid isPermaLink="false">Series, recopilatorios y programas especiales:https://cesarvidal.tv/programs/el-gran-reseteo-los-senores-de-la-ia-y-el-marketing-del-apocalipsis</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Series, recopilatorios y programas especiales]]></category>
+<description><![CDATA[César Vidal y Lorenzo Ramírez destapan cómo las élites tecnológicas utilizan el miedo a la IA para controlar gobiernos y ciudadanos.]]></description>
 </item>
 </channel>
 </rss>
