@@ -5,7 +5,15 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 23 Oct 2026 17:32:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 21:42:49 +0000</lastBuildDate>
+<item>
+<title><![CDATA[27 Minutos]]></title>
+<link>https://cesarvidal.tv/programs/27-minutos-video</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
+<pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[27 Minutos]]></description>
+</item>
 <item>
 <title><![CDATA[Señores de las redes]]></title>
 <link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
@@ -69,14 +77,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
-</item>
-<item>
-<title><![CDATA[27 minutos]]></title>
-<link>https://cesarvidal.tv/programs/27-minutos-video</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/27-minutos-video</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
 <title><![CDATA["Desmontando el Relato": El Documental]]></title>
