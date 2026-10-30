@@ -5,7 +5,15 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 29 Oct 2026 23:00:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 06:30:14 +0000</lastBuildDate>
+<item>
+<title><![CDATA[Tantura]]></title>
+<link>https://cesarvidal.tv/programs/tantura</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
+<pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
+</item>
 <item>
 <title><![CDATA[27 Minutos]]></title>
 <link>https://cesarvidal.tv/programs/27-minutos-video</link>
@@ -45,14 +53,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[En el mundo moderno de fronteras borrosas, cualquier acontecimiento que sucede en un lugar afecta inevitablemente al conjunto de la aldea global.]]></description>
-</item>
-<item>
-<title><![CDATA[Tantura]]></title>
-<link>https://cesarvidal.tv/programs/tantura</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
 </item>
 <item>
 <title><![CDATA[Revelando a Ucrania]]></title>
