@@ -5,7 +5,23 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 18 Nov 2026 20:55:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 08:02:07 +0000</lastBuildDate>
+<item>
+<title><![CDATA["Desmontando el Relato": El Documental]]></title>
+<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
+<pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Un documental de Miguel Rix.]]></description>
+</item>
+<item>
+<title><![CDATA[Tantura]]></title>
+<link>https://cesarvidal.tv/programs/tantura</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
+<pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
+</item>
 <item>
 <title><![CDATA[27 Minutos]]></title>
 <link>https://cesarvidal.tv/programs/27-minutos-video</link>
@@ -55,14 +71,6 @@
 <description><![CDATA[En el mundo moderno de fronteras borrosas, cualquier acontecimiento que sucede en un lugar afecta inevitablemente al conjunto de la aldea global.]]></description>
 </item>
 <item>
-<title><![CDATA[Tantura]]></title>
-<link>https://cesarvidal.tv/programs/tantura</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/tantura</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Tantura: la historia de una aldea borrada en 1948. La Nakba, el tabú que Israel no quiere afrontar.]]></description>
-</item>
-<item>
 <title><![CDATA[Revelando a Ucrania]]></title>
 <link>https://cesarvidal.tv/programs/revelando-a-ucrania</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/revelando-a-ucrania</guid>
@@ -93,14 +101,6 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
-</item>
-<item>
-<title><![CDATA["Desmontando el Relato": El Documental]]></title>
-<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Un documental de Miguel Rix.]]></description>
 </item>
 </channel>
 </rss>
