@@ -5,7 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 25 Nov 2026 22:00:07 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 08:55:40 +0000</lastBuildDate>
 <item>
 <title><![CDATA[Tantura]]></title>
 <link>https://cesarvidal.tv/programs/tantura</link>
@@ -23,6 +23,14 @@
 <description><![CDATA[27 Minutos]]></description>
 </item>
 <item>
+<title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
+<link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
+<pubDate>Fri, 06 Oct 2023 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
+</item>
+<item>
 <title><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></title>
 <link>https://cesarvidal.tv/programs/toda-la-verdad-sobre-ucrania-y-rusia-en-67-minutos-buscar-encontrar-contar</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/toda-la-verdad-sobre-ucrania-y-rusia-en-67-minutos-buscar-encontrar-contar</guid>
@@ -31,12 +39,20 @@
 <description><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></description>
 </item>
 <item>
-<title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
-<link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<title><![CDATA[Señores de las redes]]></title>
+<link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/senores-de-las-redes</guid>
+<pubDate>Wed, 02 Mar 2022 12:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
-<description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
+<description><![CDATA[Españoles y portugueses llevan siglos pescando en las duras aguas del Atlántico Norte, en los Grandes Bancos de Terranova, uno de los caladeros más extremos del mundo.]]></description>
+</item>
+<item>
+<title><![CDATA[Hechos Probados: el documental de Hacienda]]></title>
+<link>https://cesarvidal.tv/programs/hechos-probados-el-documental-de-hacienda</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/hechos-probados-el-documental-de-hacienda</guid>
+<pubDate>Sat, 29 Jan 2022 12:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Hechos Probados: el documental de Hacienda]]></description>
 </item>
 <item>
 <title><![CDATA[Ucrania en llamas]]></title>
@@ -47,28 +63,12 @@
 <description><![CDATA[En el mundo moderno de fronteras borrosas, cualquier acontecimiento que sucede en un lugar afecta inevitablemente al conjunto de la aldea global.]]></description>
 </item>
 <item>
-<title><![CDATA[Señores de las redes]]></title>
-<link>https://cesarvidal.tv/programs/senores-de-las-redes</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/senores-de-las-redes</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Españoles y portugueses llevan siglos pescando en las duras aguas del Atlántico Norte, en los Grandes Bancos de Terranova, uno de los caladeros más extremos del mundo.]]></description>
-</item>
-<item>
 <title><![CDATA[Revelando a Ucrania]]></title>
 <link>https://cesarvidal.tv/programs/revelando-a-ucrania</link>
 <guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/revelando-a-ucrania</guid>
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Durante los últimos cinco años, Ucrania ha ocupado innumerables titulares en prensa y televisión. Pero, ¿qué ha cambiado realmente en la vida de los ucranianos?]]></description>
-</item>
-<item>
-<title><![CDATA[Hechos Probados: el documental de Hacienda]]></title>
-<link>https://cesarvidal.tv/programs/hechos-probados-el-documental-de-hacienda</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/hechos-probados-el-documental-de-hacienda</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Hechos Probados: el documental de Hacienda]]></description>
 </item>
 <item>
 <title><![CDATA[Hechos Probados (II): El Juego del Fraude]]></title>
