@@ -5,15 +5,7 @@
 <link>https://cesarvidal.tv</link>
 <description>Metadatos y enlaces de César Vidal TV. Requiere suscripción para reproducir contenido Premium.</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 26 Nov 2026 21:57:39 +0000</lastBuildDate>
-<item>
-<title><![CDATA["Desmontando el Relato": El Documental]]></title>
-<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
-<pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Un documental de Miguel Rix.]]></description>
-</item>
+<lastBuildDate>Fri, 27 Nov 2026 09:07:02 +0000</lastBuildDate>
 <item>
 <title><![CDATA[Tantura]]></title>
 <link>https://cesarvidal.tv/programs/tantura</link>
@@ -29,14 +21,6 @@
 <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[27 Minutos]]></description>
-</item>
-<item>
-<title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
-<link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
-<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
-<pubDate>Fri, 06 Oct 2023 12:00:00 +0000</pubDate>
-<category><![CDATA[Documentales]]></category>
-<description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
 </item>
 <item>
 <title><![CDATA[Toda la verdad sobre Ucrania y Rusia en 67 minutos: BUSCAR, ENCONTRAR, CONTAR]]></title>
@@ -61,6 +45,14 @@
 <pubDate>Sat, 29 Jan 2022 12:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Hechos Probados: el documental de Hacienda]]></description>
+</item>
+<item>
+<title><![CDATA[Yerma 2030 "la España vaciLada"]]></title>
+<link>https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/yerma-2030-la-espana-vacilada</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Yerma 2030 "la España vaciLada"]]></description>
 </item>
 <item>
 <title><![CDATA[Ucrania en llamas]]></title>
@@ -101,6 +93,14 @@
 <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 <category><![CDATA[Documentales]]></category>
 <description><![CDATA[Canarias, La demolición controlada del paraíso]]></description>
+</item>
+<item>
+<title><![CDATA["Desmontando el Relato": El Documental]]></title>
+<link>https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</link>
+<guid isPermaLink="false">Documentales:https://cesarvidal.tv/programs/desmontando-el-relato-el-documental</guid>
+<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+<category><![CDATA[Documentales]]></category>
+<description><![CDATA[Un documental de Miguel Rix.]]></description>
 </item>
 </channel>
 </rss>
